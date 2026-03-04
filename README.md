@@ -74,6 +74,3 @@ To use this system, ensure your CSV file contains the following columns:
 ---
 
 **Developed by Study Trigger**
-`python` `streamlit` `data-analysis` `sales-dashboard` `pandas` `data-visualization` `business-intelligence`
-
-**Would you like me to add a section on how to deploy this for free on Streamlit Cloud?**
