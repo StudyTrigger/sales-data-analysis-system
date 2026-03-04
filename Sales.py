@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-# ---------------- PAGE CONFIG ----------------
+# Set Title
 st.set_page_config(page_title="Sales Analysis System", layout="wide")
 
-# ---------------- GLOBAL CLEAN CSS ----------------
+# CSS
 st.markdown("""
 <style>
 .block-container {
@@ -42,7 +42,7 @@ div[role="radiogroup"] input[type="radio"]:checked + div {
 </style>
 """, unsafe_allow_html=True)
 
-# ---------------- HEADER ----------------
+# head part
 st.markdown("""
 <h2 style="margin-bottom:0;">📊 Sales Analysis System</h2>
 <p style="color:gray; margin-top:0; margin-bottom:10px;">
@@ -50,7 +50,7 @@ Powered by Study Trigger
 </p>
 """, unsafe_allow_html=True)
 
-# ---------------- CONTROL ROW ----------------
+#uploader and column division
 col1, col2 = st.columns([3, 2])
 
 with col1:
@@ -68,7 +68,7 @@ with col2:
             unsafe_allow_html=True
         )
 
-# ---------------- NAVIGATION (CLEAN RADIO) ----------------
+# menu
 menu = st.radio(
     "",
     ["Home", "City-wise Sales", "Category Revenue", "Best Product", "Filters"],
@@ -76,7 +76,7 @@ menu = st.radio(
     label_visibility="collapsed"
 )
 
-# ---------------- MAIN CONTENT ----------------
+# logic implementation
 if uploaded_file is not None:
 
     df = pd.read_csv(uploaded_file)
