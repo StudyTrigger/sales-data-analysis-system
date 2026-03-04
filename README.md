@@ -12,6 +12,21 @@ A sleek, interactive **Sales Data Analytics Dashboard** built with Python and St
 * **🔍 Advanced Filtering:** Deep dive into data by filtering for specific categories and minimum revenue thresholds.
 * **🎨 Custom UI:** Features a modern, tab-based navigation layout with custom CSS styling.
 
+## 🔗 Live Demo
+Check out the live application here:  
+👉 **[Sales Analysis Dashboard](https://sales-analysis-dashboard-vdmh.onrender.com/)**
+
+## 📸 Preview
+<img width="1352" height="634" alt="image" src="https://github.com/user-attachments/assets/4485a2a2-afe2-443b-81e8-fe13104ea98c" />
+
+Best Product
+<img width="1353" height="629" alt="image" src="https://github.com/user-attachments/assets/39b0206b-6a6f-4f27-8b81-7cab1728264d" />
+
+Filters
+<img width="1292" height="604" alt="image" src="https://github.com/user-attachments/assets/d9ef4261-db92-4e3f-a5fd-a8c8f43b75c5" />
+
+
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
