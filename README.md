@@ -1,4 +1,26 @@
-# 📊 Sales Analysis System
+# 🚀 Sales Analysis System
+
+🔥 Build a complete Real Sales Analysis Project using **Python, Pandas & Streamlit** in just **45 minutes (One Shot)**!
+
+📌 Part of: **Super Sunday Project Series 🚀**  
+👉 New project every Sunday  
+👉 Learn by building real-world projects  
+
+Watch Video : https://youtu.be/v97xEEqj1MY?si=9_WpIZG6AlgS96li
+
+---
+
+## ⭐ Support & Follow
+
+If this project helps you:
+
+⭐ Star this repository  
+👤 Follow me on GitHub for more projects  
+📺 Watch full video:
+
+---
+
+## 🎥 Project Preview
 
 A sleek, interactive **Sales Data Analytics Dashboard** built with Python and Streamlit. This application allows users to upload retail CSV files and instantly generate insights regarding revenue, product performance, and regional sales.
 
