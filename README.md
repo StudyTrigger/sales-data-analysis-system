@@ -6,7 +6,7 @@
 👉 New project every Sunday  
 👉 Learn by building real-world projects  
 
-Watch Video : https://youtu.be/v97xEEqj1MY?si=9_WpIZG6AlgS96li
+Watch Video : [https://youtu.be/v97xEEqj1MY?si=9_WpIZG6AlgS96li](https://youtu.be/s83C3brwrFU?si=Co-3b7WYJDEWQAs8)
 
 ---
 
